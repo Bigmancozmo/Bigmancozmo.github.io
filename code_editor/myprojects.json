@@ -1,0 +1,26 @@
+{
+	"projects":[
+		{
+			"name":"MyCoolWebpage",
+			"type":"html5,css,js",
+			"files":[
+				{
+					"name":"index.html",
+					"removable":false,
+					"lines":[
+						"<!DOCTYPE html>",
+						"<html>"
+						"	<head>"
+						"		<title>My Cool Webpage</title>"
+						"	</head>"
+						"	<body>"
+						"		<p>My Cool Webpage</p>"
+						"	</body>"
+						"</html>"
+					],
+					"syntax":"HTML5"
+				}
+			]
+		}
+	]
+}
